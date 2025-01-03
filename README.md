@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-Image-Classification-Algorithms-on-the-Fashion-MNIST-Dataset
+Fashion-MNIST is a dataset of 28x28 grayscale article images each with an associated label from one of 10 classes: tshirt/top, trouser, pullover, dress, coat, sandal, shirt, sneaker, bag, ankle boot. The dataset takes the same format as the MNIST dataset with 60,000 examples in the training set, and 10,000 examples in the test set
